@@ -374,10 +374,6 @@ export SSL_KEY_PATH="/path/to/key.pem"
 - Consider microservices architecture for large deployments
 - Implement horizontal scaling for ML inference
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -392,14 +388,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Write comprehensive tests for new features
 - Update documentation for API changes
 - Ensure backward compatibility when possible
-
-## 📞 Support
-
-For support, please:
-1. Check the troubleshooting section above
-2. Search existing GitHub issues
-3. Create a new issue with detailed information
-4. Include system information and error logs
 
 ## 🔮 Future Enhancements
 
@@ -418,8 +406,6 @@ For support, please:
 - **Contextual Authentication**: Environment-aware security
 - **Quantum-Safe Cryptography**: Post-quantum security
 
----
-
 ## 🎯 Quick Demo
 
 1. **Start the system**: `python run.py`
@@ -429,10 +415,4 @@ For support, please:
 5. **Monitor**: Watch real-time authentication in dashboard
 6. **Test**: Try different typing/mouse patterns to see anomaly detection
 
-**Demo Credentials** (after running setup):
-- Username: `demo_user`
-- Password: `SecureDemo123!`
-
----
-
-*Built with ❤️ for cybersecurity and privacy protection*
+*Thank you*
