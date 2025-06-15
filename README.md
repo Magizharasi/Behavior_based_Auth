@@ -2,7 +2,12 @@
 ## 🛡️ Advanced Behavioral Authentication System
 
 A sophisticated real-time continuous authentication system using behavioral biometrics, powered by machine learning and designed with modern web technologies.
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/6709bbef-fb3c-4af3-a342-2f2e499f282e)
+
+![image](https://github.com/user-attachments/assets/2b875343-07fb-4883-b946-61284c4f14d8)
+
+![image](https://github.com/user-attachments/assets/e584ffa2-5d04-4442-beee-a6180ca63027)
 
 ## 🌟 Features
 
