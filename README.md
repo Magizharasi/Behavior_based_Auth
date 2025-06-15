@@ -408,7 +408,7 @@ export SSL_KEY_PATH="/path/to/key.pem"
 
 ## 🎯 Quick Demo
 
-1. **Start the system**: `python run.py`
+1. **Start the system**: `python app.py`
 2. **Open browser**: Navigate to `http://localhost:5000`
 3. **Register**: Create account with strong password
 4. **Calibrate**: Complete 10-minute behavioral training
